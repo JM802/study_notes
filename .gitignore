@@ -1,0 +1,52 @@
+# Windows 可执行文件
+*.exe
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.obj
+*.o
+*.so
+*.dylib
+
+# 编译中间文件
+*.o
+*.obj
+*.gch
+*.pch
+*.i
+*.ii
+*.s
+*.class
+
+# CMake 生成文件
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+build/
+Build/
+out/
+OUT/
+bin/
+Bin/
+lib/
+Lib/
+
+# 编辑器/IDE 临时文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+web_server/multi_io
